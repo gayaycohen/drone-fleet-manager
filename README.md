@@ -2,6 +2,8 @@
 
 A C# Windows Forms system for managing delivery drones, surveillance drones, missions, battery levels, and charging stations.
 
+## Screenshot
+![Drone Fleet Manager Interface](main-interface.png)
 ## Main Features
 
 - Add delivery and surveillance drones
